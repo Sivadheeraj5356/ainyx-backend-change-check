@@ -1,0 +1,1 @@
+{"name":"ainyx-backend-change-check","version":"1.0.0","private":false,"description":"Reasoning checklist for safe backend changes","type":"module","scripts":{"test":"node --test"},"engines":{"node":">=18"},"license":"MIT"}
